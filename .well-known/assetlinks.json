@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.hahaproman.twa",
+        "sha256_cert_fingerprints": ["B1:60:67:BC:D7:3D:15:7A:DA:84:AC:F2:BA:67:C8:47:3F:BB:84:35:E0:53:38:5C:50:02:55:CA:00:34:5C:23"]
+      }
+    }]
